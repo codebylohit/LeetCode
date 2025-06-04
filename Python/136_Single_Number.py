@@ -9,6 +9,7 @@ class Solution(object):
             if nums.count(i)==1:
                 return i'''
         
+        
         #optimised solution
         result = 0
         for num in nums:
